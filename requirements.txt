@@ -1,0 +1,3 @@
+astropy
+numpy
+area_detector_handlers

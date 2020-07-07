@@ -2,3 +2,5 @@
 .vscode/
 env/
 databroker.FITSHandler.egg-info/
+file_handlers/__pycache__/
+

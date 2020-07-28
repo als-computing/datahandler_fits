@@ -23,6 +23,7 @@ setup(
     description="",
     long_description=long_description,
     url="",
+    license="BSD-3",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",

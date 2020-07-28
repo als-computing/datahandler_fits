@@ -23,16 +23,15 @@ setup(
     description="",
     long_description=long_description,
     url="",
-    license="BSD",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
     ],
-    keywords="Xi-cam, catalog",
+    keywords="Xi-cam, catalog, splash, fits",
     packages=find_namespace_packages(exclude=["docs", "tests*"]),
     include_package_data=True,
-    author="J.A.",
+    author="thefearlesscoder",
     install_requires=install_requires,
     dependency_links=dependency_links,
     entry_points={
